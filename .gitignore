@@ -7,6 +7,8 @@
 
 # Pack files
 !pack.xml
+!42x42Icon.png
+!420x200Splash.png
 
 # Config files
 !config/
