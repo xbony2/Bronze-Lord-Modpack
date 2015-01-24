@@ -5,5 +5,8 @@
 !LICENSE-scripts
 !README.md
 
+# Pack files
+!pack.xml
+
 # Config files
 !config/

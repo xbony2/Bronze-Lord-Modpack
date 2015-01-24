@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--I created this in XML, because fuck JSON. I'd do YAML, although Xcode does not support it yet.-->
+<pack>
+    <name>Bronze Lord Modpack</name>
+    <link>TODO</link>
+    <serverlink></serverlink>
+    <type>Unlistsed Public Modpack</type>
+    <description></description>
+    <version>1.0.0a</version>
+    <mcversion>1.7.10</mcversion>
+    <forgeversion>10.13.2.1286</forgeversion>
+    <author>Xbony2</author>
+    <permissions>
+        <non-openssmods>
+            <!--TODO-->
+            <mod permission="Imgur Link">Mod Name</mod>
+        </non-openssmods>
+        <othermods>
+            <!--TODO-->
+            <mod author="Mod Author Name" permission="Imgur Link" link="Mod Page Link">Mod Name</mod>
+        </othermods>
+    </permissions>
+</pack>
