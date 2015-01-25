@@ -12,3 +12,6 @@
 
 # Config files
 !config/
+
+# Info files
+!enchantingids.xml

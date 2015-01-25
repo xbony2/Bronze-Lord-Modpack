@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Used to keep track of enchanting IDs-->
+<enid name="Death Compass">197</enid>
+<enid name="Reading">196</enid>
+<enid name="Wither Arrow">AUTO</enid>
+<enid name="Wither Weapon">AUTO</enid>
+<enid name="Capitalist">68</enid>
+<enid name="Consuming">69</enid>
+<enid name="Corrupting">71</enid>
+<enid name="Educational">70</enid>
+<enid name="Fiery Core">66</enid>
+<enid name="Impact">73</enid>
+<enid name="Voidtouched">72</enid>
+<enid name="Wrath">67</enid>
+<enid name="Haste">150</enid>
+<enid name="Repair">151</enid>
+<enid name="Binding">77</enid>
+<enid name="Disarming">79</enid>
+<enid name="Night Vision">78</enid>
+<enid name="Ascent Boost">220</enid>
+<enid name="Auto Smelt">222</enid>
+<enid name="Desintegrate">223</enid>
+<enid name="Dispersed Strike">166</enid>
+<enid name="Final Strike">168</enid>
+<enid name="Focused Strike">169</enid>
+<enid name="Pounce">170</enid>
+<enid name="Quick Draw">224</enid>
+<enid name="Shatter">167</enid>
+<enid name="Shockwave">171</enid>
+<enid name="Slow Fall">221</enid>
+<enid name="Tunnel">172</enid>
+<enid name="Valiance">173</enid>
+<enid name="Vampirism">225</enid>
+<enid name="Chill Aura">137</enid>
+<enid name="Fiery Aura">136</enid>
