@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Used to keep track of potions IDs-->
+<pid name="Amphibian">115</pid>
+<pid name="Boost">101</pid>
+<pid name="Deaf">113</pid>
+<pid name="DemonCloak">114</pid>
+<pid name="Drowning">100</pid>
+<pid name="FireFuse">109</pid>
+<pid name="FlameCloak">106</pid>
+<pid name="Flight">104</pid>
+<pid name="HeavyHeart">108</pid>
+<pid name="IceCloak">107</pid>
+<pid name="Inhibit">103</pid>
+<pid name="PlanarBinding">110</pid>
+<pid name="ProjProt">102</pid>
+<pid name="Reciprocation">105</pid>
+<pid name="SoulFray">111</pid>
+<pid name="SoulHarden">112</pid>
+<pid name="Blood Seal">70</pid>
+<pid name="Binding">31</pid>
+<pid name="Taint Withdrawl">32</pid>
+<pid name="Air Potion">90</pid>
+<pid name="Earth Potion">89</pid>
+<pid name="Fire Potion">86</pid>
+<pid name="Water Potion">87</pid>
+<!--TODO; Witchery-->
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+<pid name="Name">ID</pid>
+
